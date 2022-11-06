@@ -1,19 +1,3 @@
-nav{
-  justify-content: center;
-}
-
-
-a{
-  text-decoration: none;
-}
-
-
-
-
-
-
-
-
 
 
 
