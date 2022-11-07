@@ -1,12 +1,23 @@
+nav{
+  text-align: center;
+  margin: 30px;
+}
 
+a{
+  color: black;
+  text-decoration: none;
+  margin: 20px;
+  font-size: larger;
+  border: 2px solid darkorange;
+  padding: 3px 6px;
+  border-radius: 6px;
+  background: darkgoldenrod;
+}
 
-
-
-
-
-
-
-
+a:hover{
+  background-color: white;
+  color: blue;
+}
 
 
 
